@@ -57,7 +57,7 @@ with st.sidebar:
                                 ['LogReg', 'NB', 'KNN', 'SVM'])
 
     # -- technology stack
-    st.write('**Стэк технологий**: Python, Pandas, Sklearn, NLTK, PyMoprhy2, TQDM, Streamlit')
+    st.write('**Стэк технологий**: Python, Pandas, Sklearn, NLTK, pymoprhy2, Streamlit')
     st.write('В соответствующей ветке репозитория GitHub выложены notebook-и со всеми этапами проекта '
              '(не вошедшими в итоговое приложение)')
 
