@@ -14,7 +14,7 @@
 The final visualization in the form of a **streamlit web service** is [**here**](https://school-website-classification.streamlit.app/)
 ___
 
-The pet-project was made on the basis of a small closed hackathon *(by this reason I've only published models' weights without training data)* of the Summer School from the **ML&Text direction (2023 year)**.
+The pet-project was made on the basis of a small closed hackathon *(by this reason I've only published models' weights without training data)* of the Summer School from the **ML&Text track (2023 year)**.
 
 The training dataset contained texts from archived websites *(3630 examples)*. The texts are heavily polluted with escape symbols, html markup and punctuation marks. Each text has its own label indicating belonging to the school website: if yes (1), if not (0).
 
