@@ -33,20 +33,20 @@ The training dataset contained texts from archived websites *(3630 examples)*. T
 
 - I checked whether the quality of the model improves depending on the preprocessing of texts
 
-- A large number of words in the data are separated into parts by spaces, so I checked whether q-grams can improve the metrics
+- A large number of words in the data are separated into parts by spaces, so I checked whether *q-grams* can improve the metrics
 
-- I did a frequency analysis of the data and compared it with TF-IDF features
+- I did a frequency analysis of the data and compared it with *TF-IDF features*
 
 - I tried to do clusterization of non-school websites:
     - I found an optimal number of clusters by different methods:
         - *AgglomerativeClustering with automatic determination of the optimal number of clusters*
         - *dendrogram of clusters*
         - *comparison of silhouette Score for different numbers of clusters*
-    - I lowered the dimension of vector spaces by using IncrementalPCA and made an interactive scattering plot
+    - I lowered the dimension of vector spaces by using *IncrementalPCA* and made an interactive scattering plot
 <p> </p>
 
-- I visualized all the work done in the [streamlit web service](https://school-website-classification.streamlit.app/) where using different pre-trained models you can determine whether the text is found on the school website and look at the metrics
+- I visualized all the work done in the [streamlit web service (ru)](https://school-website-classification.streamlit.app/) where using different pre-trained models you can determine whether the text is found on the school website and look at the metrics
 
-In a folder **streamlit_app** are located requirenments, a web-service code, training script and 32 classification models with different configuration.
+In a folder **streamlit_app** are located requirenments, a web-service code, training script and 32 classification models with different configurations.
 
 In a folder **research** are stored my notebooks where I tested hypotheses, did a frequency analysis + words' clusterization and explained my decisions, problems, possible solutions and some troubles that I couldn't fix.
