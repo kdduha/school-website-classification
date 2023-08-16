@@ -9,8 +9,6 @@
 ![plotly](https://img.shields.io/badge/plotly-%231a1a1a?style=flat&logo=plotly&logoColor=white&link=https%3A%2F%2Fplotly.com%2Fpython%2F)
 ![matplotlib](https://img.shields.io/badge/matplotlib-3d85c6?style=flat&logo=matplotlib&logoColor=white&link=https%3A%2F%2Fmatplotlib.org%2F)
 
-___
-
 **Pet-project**: comparison of different algorithms for school website classification + text clusterization + streamlit app
 
 The final visualization in the form of a **streamlit web service** is [**here**](https://school-website-classification.streamlit.app/)
