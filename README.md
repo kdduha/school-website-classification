@@ -1,5 +1,4 @@
 # school-website-classification
-___
 
 ![python](https://img.shields.io/badge/python-6a6a6a?style=flat&logo=python&logoColor=white&link=https%3A%2F%2Fwww.python.org%2F)
 ![sklearn](https://img.shields.io/badge/sklearn-597b9a?style=flat&logo=sklearn&logoColor=white&link=https%3A%2F%2Fscikit-learn.org%2Fstable%2F)
@@ -9,6 +8,8 @@ ___
 ![pymorphy2](https://img.shields.io/badge/pymorphy2-5287ac?style=flat&logo=pymorphy2&logoColor=white&link=https%3A%2F%2Fpymorphy2.readthedocs.io%2Fen%2Fstable%2F)
 ![plotly](https://img.shields.io/badge/plotly-%231a1a1a?style=flat&logo=plotly&logoColor=white&link=https%3A%2F%2Fplotly.com%2Fpython%2F)
 ![matplotlib](https://img.shields.io/badge/matplotlib-3d85c6?style=flat&logo=matplotlib&logoColor=white&link=https%3A%2F%2Fmatplotlib.org%2F)
+
+___
 
 **Pet-project**: comparison of different algorithms for school website classification + text clusterization + streamlit app
 
