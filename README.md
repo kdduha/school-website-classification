@@ -1,13 +1,31 @@
 # school-website-classification
 
-![python](https://img.shields.io/badge/python-6a6a6a?style=flat&logo=python&logoColor=white&link=https%3A%2F%2Fwww.python.org%2F)
-![sklearn](https://img.shields.io/badge/sklearn-597b9a?style=flat&logo=sklearn&logoColor=white&link=https%3A%2F%2Fscikit-learn.org%2Fstable%2F)
-![streamlit](https://img.shields.io/badge/sreamlit-e60d1a?style=flat&logo=streamlit&logoColor=white&link=https%3A%2F%2Fstreamlit.io%2F)
-![pandas](https://img.shields.io/badge/pandas-7140ff?style=flat&logo=pandas&logoColor=white&link=https%3A%2F%2Fpandas.pydata.org%2Fdocs%2F%23)
-![nltk](https://img.shields.io/badge/nltk-%23042e3c?style=flat&logo=nltk&logoColor=white&link=https%3A%2F%2Fwww.nltk.org%2F)
-![pymorphy2](https://img.shields.io/badge/pymorphy2-5287ac?style=flat&logo=pymorphy2&logoColor=white&link=https%3A%2F%2Fpymorphy2.readthedocs.io%2Fen%2Fstable%2F)
-![plotly](https://img.shields.io/badge/plotly-%231a1a1a?style=flat&logo=plotly&logoColor=white&link=https%3A%2F%2Fplotly.com%2Fpython%2F)
-![matplotlib](https://img.shields.io/badge/matplotlib-3d85c6?style=flat&logo=matplotlib&logoColor=white&link=https%3A%2F%2Fmatplotlib.org%2F)
+<div id="badges">
+    <a href="https://www.python.org">
+        <img src="https://img.shields.io/badge/python-6a6a6a?style=flat&logo=python&logoColor=white" alt="python badge"/>
+    </a>
+    <a href="https://scikit-learn.org">
+        <img src="https://img.shields.io/badge/sklearn-597b9a?style=flat&logo=sklearn&logoColor=white" alt="sklearn badge"/>
+    </a>
+    <a href="https://streamlit.io">
+        <img src="https://img.shields.io/badge/sreamlit-e60d1a?style=flat&logo=streamlit&logoColor=white" alt="streamlit badge"/>
+    </a>
+    <a href="https://pandas.pydata.org">
+        <img src="https://img.shields.io/badge/pandas-7140ff?style=flat&logo=pandas&logoColor=white" alt="pandas badge"/>
+    </a>
+    <a href="https://www.nltk.org">
+        <img src="https://img.shields.io/badge/nltk-%23042e3c?style=flat&logo=nltk&logoColor=white" alt="nltk badge"/>
+    </a>
+    <a href="https://pymorphy2.readthedocs.io">
+        <img src="https://img.shields.io/badge/pymorphy2-5287ac?style=flat&logo=pymorphy2&logoColor=white" alt="pymorphy2 badge"/>
+    </a>
+    <a href="https://plotly.com">
+        <img src="https://img.shields.io/badge/plotly-%231a1a1a?style=flat&logo=plotly&logoColor=white" alt="plotly badge"/>
+    </a>
+    <a href="https://matplotlib.org">
+        <img src="https://img.shields.io/badge/matplotlib-3d85c6?style=flat&logo=matplotlib&logoColor=white" alt="matplotlib badge"/>
+    </a>
+</div>
 
 **Pet-project**: comparison of different algorithms for school website classification + text clusterization + streamlit app
 
@@ -21,7 +39,7 @@ The training dataset contained texts from archived websites *(3630 examples)*. T
 **What did I do?**
 - on the cross validation of 5 batches, I compared:
     - several classical classification algorithms: 
-        - *Logistig Regression*
+        - *Logistic Regression*
         - *Naive Baise*
         - *KNN (k-nearest neighbours)*
         - *Linear SVM (support vector machine)*
@@ -47,6 +65,6 @@ The training dataset contained texts from archived websites *(3630 examples)*. T
 
 - I visualized all the work done in the [streamlit web service (ru)](https://school-website-classification.streamlit.app/) where using different pre-trained models you can determine whether the text is found on the school website and look at the metrics
 
-In a folder **streamlit_app** are located requirenments, a web-service code, training script and 32 classification models with different configurations.
+In a folder **streamlit_app** are located requirements, a web-service code, training script and 32 classification models with different configurations.
 
 In a folder **research** are stored my notebooks where I tested hypotheses, did a frequency analysis + words' clusterization and explained my decisions, problems, possible solutions and some troubles that I couldn't fix.
