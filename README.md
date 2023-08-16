@@ -1,9 +1,16 @@
 # school-website-classification
 ___
 
-**Pet-project**: comparison of different algorithms for school website classification + text clusterization + streamlit app
+![python](https://img.shields.io/badge/python-6a6a6a?style=flat&logo=python&logoColor=white&link=https%3A%2F%2Fwww.python.org%2F)
+![sklearn](https://img.shields.io/badge/sklearn-597b9a?style=flat&logo=sklearn&logoColor=white&link=https%3A%2F%2Fscikit-learn.org%2Fstable%2F)
+![streamlit](https://img.shields.io/badge/sreamlit-e60d1a?style=flat&logo=streamlit&logoColor=white&link=https%3A%2F%2Fstreamlit.io%2F)
+![pandas](https://img.shields.io/badge/pandas-7140ff?style=flat&logo=pandas&logoColor=white&link=https%3A%2F%2Fpandas.pydata.org%2Fdocs%2F%23)
+![nltk](https://img.shields.io/badge/nltk-%23042e3c?style=flat&logo=nltk&logoColor=white&link=https%3A%2F%2Fwww.nltk.org%2F)
+![pymorphy2](https://img.shields.io/badge/pymorphy2-5287ac?style=flat&logo=pymorphy2&logoColor=white&link=https%3A%2F%2Fpymorphy2.readthedocs.io%2Fen%2Fstable%2F)
+![plotly](https://img.shields.io/badge/plotly-%231a1a1a?style=flat&logo=plotly&logoColor=white&link=https%3A%2F%2Fplotly.com%2Fpython%2F)
+![matplotlib](https://img.shields.io/badge/matplotlib-3d85c6?style=flat&logo=matplotlib&logoColor=white&link=https%3A%2F%2Fmatplotlib.org%2F)
 
-**Stack**: Python, [Sklearn](https://scikit-learn.org/stable/), [Streamlit](https://streamlit.io/), [Pandas](https://pandas.pydata.org/docs/#), [NLTK](https://www.nltk.org/), [pymorphy2](https://pymorphy2.readthedocs.io/en/stable/), [Plotly](https://plotly.com/python/), [Matplotlib](https://matplotlib.org/)
+**Pet-project**: comparison of different algorithms for school website classification + text clusterization + streamlit app
 
 The final visualization in the form of a **streamlit web service** is [**here**](https://school-website-classification.streamlit.app/)
 ___
